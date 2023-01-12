@@ -1,1 +1,7 @@
-/* your code */
+thead{
+	background-color:darkblue;
+	color:white;
+}
+tbody{
+	background-color:lightcyan;
+}
